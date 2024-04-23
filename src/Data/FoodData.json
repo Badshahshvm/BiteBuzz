@@ -1,0 +1,283 @@
+ [
+  {
+    "id": 1,
+    "img": "https://img.freepik.com/free-photo/seafood-pizza_74190-5944.jpg?w=996&t=st=1693062328~exp=1693062928~hmac=53fd9ad496580db41c6ca8066510cd89c6b0a0389de8bb6b875a78a1eda09cb5",
+    "name": "Onion Pizza",
+    "price": 150,
+    "desc": "A delicious pizza topped with fresh onions for a delightful flavor combination. This pizza is perfect for onion lovers and offers a unique twist on the classic pizza experience. Enjoy the perfect blend of cheesy goodness and the sharp taste of onions in every bite. Whether you're sharing with friends or enjoying it all to yourself, this Onion Pizza is sure to satisfy your pizza cravings.",
+    "category": "Lunch",
+    "rating": 4.5
+  },
+  {
+    "id": 2,
+    "img": "https://w7.pngwing.com/pngs/339/55/png-transparent-pizza-margherita-italian-cuisine-hot-dog-pizza-cheese-pizza-thumbnail.png",
+    "name": "Margherita Pizza",
+    "price": 130,
+    "desc": "A classic Italian pizza topped with fresh tomatoes, mozzarella cheese, basil leaves, and a drizzle of olive oil. Simple yet bursting with flavors, this Margherita Pizza is a timeless favorite that captures the essence of Italian cuisine.",
+    "category": "Lunch",
+    "rating": 4.2
+  },
+  {
+    "id": 3,
+    "img": "https://w7.pngwing.com/pngs/21/55/png-transparent-pepperoni-pizza-margarita-pizza-margherita-italian-cuisine-tomato-pizza-food-cheese-recipe-thumbnail.png",
+    "name": "Pepperoni Pizza",
+    "price": 160,
+    "desc": "Indulge in the savory delight of this Pepperoni Pizza, loaded with slices of spicy pepperoni, melted cheese, and a tangy tomato sauce. A popular choice that's perfect for satisfying your pizza cravings.",
+    "category": "Lunch",
+    "rating": 4.6
+  },
+  {
+    "id": 4,
+    "img": "https://w7.pngwing.com/pngs/569/109/png-transparent-pizza-with-vegetables-and-mushroom-toppings-sicilian-pizza-california-style-pizza-pizza-margherita-vegetarian-cuisine-pizza-food-recipe-gourmet-thumbnail.png",
+    "name": "Mushroom and Spinach Pizza",
+    "price": 140,
+    "desc": "Experience the earthy flavors of mushrooms combined with the freshness of spinach on this delightful pizza. Topped with a blend of cheeses, this Mushroom and Spinach Pizza offers a balanced and satisfying taste.",
+    "category": "Lunch",
+    "rating": 4.2
+  },
+  {
+    "id": 5,
+    "img": "https://w7.pngwing.com/pngs/843/171/png-transparent-pizza-73-restaurant-catupiry-chicken-as-food-pizza-baked-goods-food-recipe-thumbnail.png",
+    "name": "BBQ Chicken Pizza",
+    "price": 170,
+    "desc": "Savor the smoky goodness of this BBQ Chicken Pizza, featuring tender pieces of chicken marinated in barbecue sauce, red onions, and a medley of cheeses. A fusion of flavors that's sure to delight your taste buds.",
+    "category": "Lunch",
+    "rating": 4.8
+  },
+  {
+    "id": 6,
+    "img": "https://w7.pngwing.com/pngs/133/54/png-transparent-pancakes-served-on-plate-banana-pancakes-scrambled-eggs-breakfast-ihop-pancake-food-recipe-eating-thumbnail.png",
+    "name": "Classic Pancakes",
+    "price": 80,
+    "desc": "Start your day with a stack of fluffy pancakes served with maple syrup and a dollop of butter. A timeless breakfast favorite that's sure to satisfy your morning cravings.",
+    "category": "Breakfast",
+    "rating": 4.5
+  },
+  {
+    "id": 7,
+    "img": "https://w7.pngwing.com/pngs/645/475/png-transparent-croissant-bread-croissant-muffin-brunch-bacon-egg-and-cheese-sandwich-bread-croissants-baked-goods-food-baking-thumbnail.png",
+    "name": "Egg and Bacon Croissant",
+    "price": 110,
+    "desc": "Indulge in a buttery croissant filled with scrambled eggs, crispy bacon, and melted cheese. A savory and satisfying breakfast option that's perfect for on-the-go mornings.",
+    "category": "Breakfast",
+   "rating": 4.2
+  },
+  {
+    "id": 8,
+  "img": "https://w7.pngwing.com/pngs/683/103/png-transparent-frozen-yogurt-parfait-breakfast-yoghurt-fruit-salad-yogurt-frutti-di-bosco-food-breakfast-thumbnail.png",
+   "name": "Greek Yogurt Parfait",
+   "price": 95,
+    "desc": "Enjoy a healthy and refreshing breakfast with layers of creamy Greek yogurt, fresh berries, honey, and granola. A balanced option that provides a burst of flavors and energy.",
+   "category": "Breakfast",
+   "rating": 4.1
+
+  },
+  {
+    "id": 9,
+    "img": "https://w7.pngwing.com/pngs/400/603/png-transparent-toast-tostytosty-la-tosteria-menu-food-dish-avocado-toast-food-toast-avocado-toast-thumbnail.png",
+    "name": "Avocado Toast",
+    "price": 120,
+    "desc": "Savor the creaminess of mashed avocado on toasted whole grain bread, topped with a sprinkle of sea salt and red pepper flakes. A trendy and nutritious breakfast choice.",
+   "category": "Breakfast",
+    "rating": 4.6
+
+  },
+  {
+    "id": 10,
+    "img": "https://w7.pngwing.com/pngs/20/725/png-transparent-grain-bowl-breakfast-cereal-muesli-corn-flakes-bowl-granola-food-breakfast-recipe-thumbnail.png",
+
+    "name": "Fruit and Nut Oatmea",
+    "price": 85,
+    "desc": "Warm up with a bowl of hearty oatmeal packed with mixed fruits, nuts, and a drizzle of honey. A wholesome breakfast that provides a satisfying start to your day.",
+ 
+   "category": "Breakfast",
+    "rating": 4.5
+
+  },
+  {
+    "id": 11,
+   "img": "https://w7.pngwing.com/pngs/875/111/png-transparent-north-fish-seafood-dish-smoked-salmon-restaurant-grilled-fish-hd-soup-food-seafood-thumbnail.png",
+    "name": "Grilled Salmon",
+   "price": 190,
+    "desc": "Delight in a perfectly grilled salmon fillet seasoned with herbs and served with a side of roasted vegetables. A healthy and flavorful dinner option that's rich in omega-3 fatty acids.",
+   "category": "Dinner",
+    "rating": 4.5
+  },
+  {
+   "id": 12,
+    "img": "https://w7.pngwing.com/pngs/756/828/png-transparent-taglierini-carbonara-fettuccine-alfredo-chicken-pasta-chicken-fillet-thumbnail.png",
+   "name": "Chicken Alfredo Pasta",
+   "price": 160,
+   "desc": "Indulge in creamy fettuccine Alfredo pasta with tender pieces of grilled chicken. This comforting dinner dish is a blend of pasta, rich Alfredo sauce, and savory chicken.",
+   "category": "Dinner",
+   "rating": 4.8
+  },
+  {
+  "id": 13,
+ "img": "https://w7.pngwing.com/pngs/651/721/png-transparent-veggie-burger-vegetable-food-recipe-stir-frying-vegetables-frying-pan-frozen-vegetables-fruit-thumbnail.png",
+   "name": "Vegetable Stir-Fry",
+    "price": 130,
+    "desc": "Enjoy a medley of colorful vegetables stir-fried in a flavorful sauce, served over steamed rice. A light and nutritious dinner that's both satisfying and wholesome.",
+    "category": "Dinner",
+    "rating": 4.2
+  },
+  {
+    "id": 14,
+    "img": "https://w7.pngwing.com/pngs/575/331/png-transparent-burrito-taco-bell-mexican-cuisine-chipotle-mexican-grill-menu-thumbnail.png",
+    "name": "Grilled Chicken Burrito Bowl",
+    "price": 160,
+    "desc": "Savor the flavors of a delicious burrito bowl with tender grilled chicken, black beans, rice, sautéed peppers and onions, shredded cheese, and a drizzle of zesty cilantro-lime dressing. A hearty and satisfying chicken dinner option.",
+    "category": "Dinner",
+    "rating": 4.6
+  },
+  {
+    "id": 15,
+    "img": "https://w7.pngwing.com/pngs/47/171/png-transparent-chinese-noodles-hot-and-sour-soup-risotto-lomi-lamian-slippery-mushrooms-risotto-dusi-soup-food-recipe-thumbnail.png",
+    "name": "Mushroom Risotto",
+    "price": 175,
+    "desc": "Indulge in creamy and flavorful mushroom risotto, made with Arborio rice, sautéed mushrooms, and a touch of Parmesan cheese. A comforting and sophisticated dinner choice.",
+    "category": "Dinner",
+    "rating": 4.5
+  },
+  {
+    "id": 16,
+    "img": "https://w7.pngwing.com/pngs/47/171/png-transparent-chinese-noodles-hot-and-sour-soup-risotto-lomi-lamian-slippery-mushrooms-risotto-dusi-soup-food-recipe-thumbnail.png",
+    "name": "Cheese and Crackers Platter",
+    "price": 120,
+    "desc": "Enjoy a variety of artisan cheeses, paired with an assortment of crispy crackers and complemented by fresh fruits and nuts. A delightful snack option for sharing or indulging in on your own.",
+    "category": "Snacks",
+    "rating": 4.3
+  },
+  {
+    "id": 17,
+    "img": "https://w7.pngwing.com/pngs/204/32/png-transparent-crispy-fried-chicken-karaage-chicken-nugget-chicken-fingers-buffalo-wing-carrot-chilli-thumbnail.png",
+    "name": "Crispy Chicken Wings",
+    "price": 130,
+    "desc": "Savor the satisfying crunch of crispy chicken wings seasoned to perfection. Choose your favorite sauce, from tangy BBQ to spicy buffalo, for a flavorful snacking experience.",
+    "category": "Snacks",
+    "rating": 4.4
+  },
+  {
+    "id": 18,
+    "img": "https://w7.pngwing.com/pngs/816/163/png-transparent-grilled-skewered-meat-bakery-paneer-tikka-indian-cuisine-vegetarian-cuisine-cake-food-baking-cake-decorating-thumbnail.png",
+    "name": "Paneer Tikka Skewers",
+    "price": 130,
+    "desc": "Enjoy succulent pieces of marinated paneer (Indian cottage cheese) skewered and grilled to perfection. Served with mint chutney, these paneer tikka skewers offer a flavorful and aromatic Indian snack experience.",
+    "category": "Snacks",
+    "rating": 4.9
+  },
+  {
+    "id": 19,
+    "img": "https://w7.pngwing.com/pngs/356/675/png-transparent-falafel-lebanese-cuisine-take-out-mediterranean-cuisine-hummus-bed-miscellaneous-furniture-food-thumbnail.png",
+    "name": "Hummus and Veggie Platter",
+    "price": 90,
+    "desc": "Relish the smooth and flavorful hummus accompanied by a variety of fresh vegetable sticks and pita bread. A nutritious and satisfying option for a light and refreshing snack.",
+    "category": "Snacks",
+    "rating": 4.4
+  },
+  {
+    "id": 20,
+    "img": "https://w7.pngwing.com/pngs/435/847/png-transparent-pincho-canape-skewer-fruit-others-thumbnail.png",
+    "name": "Fruit Skewers",
+    "price": 70,
+    "desc": "Indulge in a colorful assortment of fruit skewers featuring juicy chunks of melon, berries, pineapple, and more. A sweet and refreshing snack that's both delicious and visually appealing.",
+    "category": "Snacks",
+    "rating": 4.8
+  },
+  {
+    "id": 21,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRS5Ksi-w00BlHJcvFihcS1wp7ogFVKaSHOxQ&usqp=CAU",
+    "name": "Chicken Nogget",
+    "price": 60,
+    "desc": "Indulge in a colorful assortment chicken skewers featuring juicy chunks of melon, berries, pineapple, and more. A sweet and refreshing snack that's both delicious and visually appealing.",
+    "category": "Snacks",
+    "rating": 4.3
+  },
+  {
+    "id": 22,
+    "img": "https://www.lacademie.com/wp-content/uploads/2022/04/indian-snacks-500x375.jpg",
+    "name": "Plate Samosat",
+    "price": 80,
+    "desc": "Samosa is a popular Indian snack consisting of a fried or baked pastry filled with spiced potatoes, peas, and sometimes other ingredients. It's often triangular in shape and served with chutney or sauce.",
+    "category": "Snacks",
+    "rating": 4.4
+  }
+,
+  {
+    "id": 23,
+    "img": " https://cdn.shopify.com/s/files/1/0051/4159/4210/files/Screenshot_2022-06-22_at_10.07.10_AM_480x480.png?v=1655872668",
+    "name": "Fries Nimki",
+    "price": 180,
+    "desc": "Fries Nimki is a savory snack originating from South Asia, particularly popular in Bangladesh and West Bengal, India",
+    "category": "Snacks",
+    "rating": 4.4
+  },
+  {
+    "id": 24,
+    "img": "https://images.hindustantimes.com/img/2022/02/09/550x309/work_from_home_snacks_thumb_1644407046807_1644407062721.jpg",
+    "name": "Roasted Popcorn",
+    "price": 280,
+    "desc": "Roasted Popcorn is a delightful and healthier twist on the classic movie snack, popcorn. Instead of being popped in oil, roasted popcorn is made by dry-roasting whole kernels until they puff up and become light and crunchy.",
+    "category": "Snacks",
+    "rating": 4.9
+  },
+  {
+    "id": 25,
+    "img": " https://hips.hearstapps.com/hmg-prod/images/air-fryer-buffalo-cauliflower-copy-1648138812.jpeg?crop=0.716xw:1.00xh;0.178xw,0&resize=640:*",
+    "name": "Air Fry Gobi",
+    "price": 150,
+    "desc": "Fries Gobi is a savory snack originating from South Asia, particularly popular in Bangladesh and West Bengal, India",
+    "category": "Snacks",
+    "rating": 4.4
+  },
+  {
+    "id": 25,
+    "img": " https://media.cnn.com/api/v1/images/stellar/prod/170203154758-40-mumbai-food-akuri-on-toast.jpg?q=w_1110,c_fill",
+    "name": "Bada Pao",
+    "price": 50,
+    "desc": "bda apao might be a regional or local dish, and I'm not familiar with it. Could you please provide more context or details about it? This would help me give you a more accurate ",
+    "category": "Breakfast",
+    "rating": 4.4
+  },
+  {
+    "id": 26,
+    "img": " https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYjAb4Bx0atQTZZytPkCYcErdPQa1cUaD33Q&usqp=CAU",
+    "name": "Dhokla",
+    "price": 150,
+    "desc": "Dhokla might be a regional or local dish, and I'm not familiar with it. Could you please provide more context or details about it? This would help me give you a more accurate ",
+    "category": "Breakfast",
+    "rating": 4.4
+  },
+
+  {
+    "id": 27,
+    "img": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj1uLsu0N7yFpndX7U7L74wHw03dGfjrDKcrMcYGIhlRxChadrb2OKVW-QRDDh2OQhQ53JcYVMuY-AJ3bPlWjs7VKpDZnd8UtKV3jYQllF8fmVTDJnCJAqUXnpneO60g_HH4-aHeHN0s_0/s1000/Hakka+Noodles.jpg",
+    "name":"Chhowmin",
+    "price": 40,
+    "desc": "Chow mein is a popular Chinese stir-fried noodle dish that has gained worldwide popularity. The dish typically consists of stir-fried noodles, mixed with a variety of vegetables, meat, and sauces. It's known for its savory flavor, satisfying textures, and versatility",
+    "category": "Breakfast",
+    "rating": 4.4
+  },
+  
+  {
+    "id": 27,
+    "img": "https://i.ndtvimg.com/i/2017-11/breakfast_620x350_61510895715.jpg",
+    "name":"Puri kachodi",
+    "price": 30,
+    "desc": "Puri kachaudi is mix of all the delicious ingredients...",
+    "category": "Breakfast",
+    "rating": 4.5
+  },
+  
+  {
+    "id": 27,
+    "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxWQTLFDk9CVGs97ovVmF1CsnzoxWc7ngq4A&usqp=CAU",
+    "name":"Litti chola",
+    "price": 80,
+    "desc": "liti is mix of all the delicious ingredients...",
+    "category": "Breakfast",
+    "rating": 4.1
+  }
+]
+
+
