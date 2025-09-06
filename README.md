@@ -7,4 +7,4 @@ Crrent two official plugins are available:
 
 
 
-check it :https://bite-buzz-tan.vercel.app
+check it :https://bite-buzz-tan.vercel.app/
